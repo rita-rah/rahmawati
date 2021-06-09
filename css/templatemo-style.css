@@ -355,8 +355,8 @@ a:hover, a:active, a:focus {
   padding-left: 0;
 }
 
-#home .home-img {
-  background: url('../images/home-img.jpg') no-repeat;
+#home .pp {
+  background: url('../images/pp.jpeg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -382,8 +382,8 @@ a:hover, a:active, a:focus {
    About section              
 -----------------------------------------*/
 
-#about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+#about .abt {
+    background: url('../images/abt.jpg') no-repeat;
 }
 
 #about .about-thumb,
@@ -439,8 +439,8 @@ a:hover, a:active, a:focus {
     Experience section              
 -----------------------------------------*/
 
-#experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+#experience .exp {
+  background: url('../images/exp.jpg') no-repeat;
 }
 
 #experience .media-heading {
@@ -532,8 +532,8 @@ a:hover, a:active, a:focus {
   min-height: 75vh;
 }
 
-#contact .contact-img {
-  background: url('../images/contact-img.jpg') no-repeat;
+#contact .kontak {
+  background: url('../images/kontak.jpg') no-repeat;
   min-height: 75vh;
 }
 
